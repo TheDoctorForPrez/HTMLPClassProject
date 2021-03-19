@@ -2,6 +2,13 @@ html {
     margin: 0 auto;
     max-width: 1200px;
 }
+navbar {
+    margin: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 20px 
+}
 
 body { 
 background-color: rgba(223,250,255,0.4)
@@ -24,7 +31,7 @@ font-family: sans-serif
 }
 
 img {
-  border:2px solid black
+  border:2px solid
 }
 
 ol {
