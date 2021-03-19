@@ -1,3 +1,8 @@
+html {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
 body { 
 background-color: rgba(223,238,255,0.6)
 }
