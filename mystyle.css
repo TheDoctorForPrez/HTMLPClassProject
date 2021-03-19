@@ -1,8 +1,20 @@
 body {
 font-family: sans-serif  
-background-color: #c2cad0;
+background-color:rgba(223,238,255,0.6);
 }
 
 h1 {
+font-family: sans-serif
+}
+
+h2 {
+font-family: sans-serif
+}
+
+h3 {
+font-family: sans-serif
+}
+
+p {
 font-family: sans-serif
 }
