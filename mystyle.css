@@ -2,7 +2,8 @@ html {
     margin: 0 auto;
     max-width: 1200px;
 }
-navbar {
+
+myTopnav {
     margin: auto;
     justify-content: space-evenly;
     align-items: center;
