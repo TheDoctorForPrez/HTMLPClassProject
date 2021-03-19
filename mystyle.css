@@ -4,7 +4,7 @@ html {
 }
 
 body { 
-background-color: rgba(223,238,255,0.6)
+background-color: rgba(223,250,255,0.4)
 }
 
 h1 {
@@ -25,4 +25,8 @@ font-family: sans-serif
 
 img {
   border:2px solid black
+}
+
+ol {
+ font-family: sans-serif
 }
