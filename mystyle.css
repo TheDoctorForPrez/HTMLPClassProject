@@ -2,8 +2,7 @@ html {
     margin: 0 auto;
     max-width: 1200px;
 }
-
-#myTopnav {
+nav {
     font-family: sans-serif;
     font-size: 20px;
     text-align: center;
