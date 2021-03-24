@@ -44,3 +44,11 @@ ol {
 ul {
  font-family: sans-serif
 }
+
+#links {
+    coloumns: 3;
+}
+#links h1 {
+    break-before: column;
+ -webkit-column-break-before: always;  
+}
