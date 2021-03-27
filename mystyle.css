@@ -6,10 +6,15 @@ nav {
     color: #000000;
     font-family: sans-serif;
     font-size: 20px;
-    text-transformation: uppercase;
+    text-transform: uppercase;
     text-align: center;
     padding: 20px 0 20px 0;
 }
+
+nav li { display: inline-block; 
+    padding-right: 50px;
+      }
+
 nav a:hover { color: #c1c1c1;
       }
 
