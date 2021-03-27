@@ -29,6 +29,10 @@ background-color: rgba(223,250,255,0.4);
   margin: auto;
 }
 
+.column h1 {
+    text-align: center;
+}
+
 .column li {
     margin-top: 8px;
 }
